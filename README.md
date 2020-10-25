@@ -5,7 +5,7 @@
 
 ## HR Analytics 
 
-Applying advanced analytics to HR management decisions solves the problem of guesswork by using thousands of data points, gathered through statistically predictive assessments, to determine whether or not an employee will leave the company. While traditional metrics are important to understanding human resources, efficiency and performance, they are reactive measures. Predictive analytics can identify what will happen in the future or explain what drives that outcome, such as how likely they are to stay with the company.
+Applying advanced analytics to HR management decisions solves the problem of guesswork by using thousands of data points, gathered through statistically predictive assessments, to determine whether or not an employee will leave the company. While traditional metrics are important to understanding human resources, efficiency and performance, they are reactive measures. Predictive analytics can identify what will happen in the future or explain what drives that outcome, such as how likely an employee is to stay with the company.
 
 ## Employee Attrition 
 
