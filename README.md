@@ -34,7 +34,9 @@ This can happen for many reasons e.g.:
   * KNN
   * Decision Tree
   * AdaBoost
-*   XGBoost
+  * XGBoost
+
+[Here](https://github.com/Ela-Bo/HR-Analytics-Employee-Attrition/blob/main/Presentation_EployeeAttrition.pdf) you can find a short presentation with some findings. 
 
 ## Keep in mind 
 
